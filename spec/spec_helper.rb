@@ -1,2 +1,5 @@
-$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+require_relative '../load_lib'
 require 'data_gov'
+
+require 'rspec'
+require 'airborne'
