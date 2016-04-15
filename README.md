@@ -4,9 +4,9 @@ This repository houses tests against the Data.gov API set.
 
 ## Installation
 
-Prerequisites:
-    * Ruby 2.2.4
-    * Bundler 1.11.2
+Prerequisites:  
+    * Ruby 2.2.4  
+    * Bundler 1.11.2  
 
 After cloning this repository, execute:
 
